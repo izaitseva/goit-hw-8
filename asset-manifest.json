@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/goit-hw-8/static/css/main.82c95699.css",
+    "main.js": "/goit-hw-8/static/js/main.e9796c63.js",
+    "static/media/notfound.svg": "/goit-hw-8/static/media/notfound.512e0b6de93cbc1992cc42e78e914f26.svg",
+    "index.html": "/goit-hw-8/index.html",
+    "main.82c95699.css.map": "/goit-hw-8/static/css/main.82c95699.css.map",
+    "main.e9796c63.js.map": "/goit-hw-8/static/js/main.e9796c63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82c95699.css",
+    "static/js/main.e9796c63.js"
+  ]
+}
